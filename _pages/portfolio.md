@@ -16,5 +16,5 @@ Thank you for visiting my portfolio. I hope you find inspiration and joy in expl
 {% include base_path %}
 
 {% for post in site.portfolio reversed %}
-  {% include splash.html %}
+  {% include archive-single.html %}
 {% endfor %}
