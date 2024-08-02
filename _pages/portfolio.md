@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Art Portfolio"
-permalink: /publications/
+permalink: /portfolio/
 author_profile: true
 ---
 
