@@ -17,16 +17,16 @@ Mice are flexible foragers in the wild and quickly adapt to environmental change
 CCN 2024 conference information
 ------
 
-[CCN Poster Information](https://2024.ccneuro.org/poster/?id=485)
+**Poster**: Poster **B41** - *Thursday, August 8, 2024, 1:30 - 3:30 pm, Johnson Ice Rink* [Link to the conference page](https://2024.ccneuro.org/poster/?id=485)
 
-[CCN Contributed Talk Information](https://2024.ccneuro.org/contributed-talk/?id=37)
+**Contributed Talk**: *Friday, August 9, 2024, 4:00 - 5:00 pm, Kresge Hall* [Link to the conference page](https://2024.ccneuro.org/contributed-talk/?id=37)
 
 Videos
 ------
 
-**[Wildtype Mice](https://www.youtube.com/watch?v=ULZqNH9vWPA) in Manhattan**: the standard 2-day experiment protocol. Presented at SfN 2022
+**[Wildtype Mice](https://www.youtube.com/watch?v=ULZqNH9vWPA)** in Manhattan: the standard 2-day experiment protocol. Presented at SfN 2022
 
-**[Acortical Mice](https://www.youtube.com/watch?v=hBuVPZND4-0) in Manhattan**: Newest video of one acortical mouse learning four different masks, over just three days!
+**[Acortical Mice](https://www.youtube.com/watch?v=hBuVPZND4-0)** in Manhattan: our latest video of one acortical mouse learning four different masks, over just three days!
 
 Documents
 ------
