@@ -7,8 +7,6 @@ date: August 2024
 venue: 'In Prep'
 citation: '**Zheng, J.**, Guimarães, R., Hu, J., Perona, P., and Meister, M. (In Prep). Mice in the Manhattan Maze: Rapid Learning, Flexible Routing and Generalization'
 ---
-Mice in the Manhattan Maze: Rapid Learning, Flexible Routing and Generalization, With and Without Cortex
-======
 
 Conference Abstract 
 ------
