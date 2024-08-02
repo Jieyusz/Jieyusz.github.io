@@ -31,11 +31,13 @@ Videos
 Documents
 ------
 
-Download the updated abstract [here](http://Jieyusz.github.io/files/CCN_2024_abstract.pdf) (minor errors corrected on figures) 
+Download the updated abstract [here](http://Jieyusz.github.io/files/CCN_2024_abstract.pdf) (minor errors corrected on figures)
 
-Download the poster [here](http://Jieyusz.github.io/files/CCN_poster.pdf)
+Poster and talk slides coming soon! 
 
-Download the talk slides [here](http://Jieyusz.github.io/files/CCN_talk_final.pdf)
+[comment]: <> (Download the poster [here](http://Jieyusz.github.io/files/CCN_poster.pdf))
+
+[comment]: <> (Download the talk slides [here](http://Jieyusz.github.io/files/CCN_talk_final.pdf))
 
 
 
