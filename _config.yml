@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jieyu Zheng"
+title                    : "Jieyu Zheng | My Personal Site"
 title_separator          : "-"
 name                     : &name "Jieyu Zheng"
-description              : &description "PhD student in Neurobiology, Caltech"
+description              : &description "PhD Candidate in Neurobiology, Caltech"
 url                      : https://Jieyusz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jieyusz/Jieyusz.github.io"
@@ -21,8 +21,14 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
+  provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  giscus:
+    repo_id              : Jieyusz/Jieyusz.github.io # Shown during giscus setup at https://giscus.app
+    category_name        : "Announcements" # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : "url" # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
+    theme                : "preferred_color_scheme" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
@@ -82,7 +88,7 @@ analytics:
 author:
   name             : "Jieyu Zheng"
   avatar           : "Zheng220413.JPG"
-  bio              : "PhD student in Neurobioloby, Caltech"
+  bio              : "PhD Candidate in Neurobioloby, Caltech"
   location         : "Pasadena, CA, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -187,6 +193,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  art:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -202,6 +214,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_dates: true
   # _pages
   - scope:
       path: ""
@@ -225,6 +238,24 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
+      comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _art
+  - scope:
+      path: ""
+      type: art
+    values:
+      layout: single
+      author_profile: false
       share: true
       comments: true
   # _portfolio
