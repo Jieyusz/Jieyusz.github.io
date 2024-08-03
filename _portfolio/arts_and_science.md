@@ -8,6 +8,7 @@ date: 2024-06-01
 
 Original design for the neurotecher tote bag, 2024
 ------
+
 <img src="/images/neurotech.jpeg" alt="Neurotech Image" style="width: 400px; height: auto;">
 
 The unbearable slowness of being
