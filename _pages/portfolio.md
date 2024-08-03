@@ -16,5 +16,5 @@ I hope you find inspiration and joy in exploring my art as much as I have in cre
 {% include base_path %}
 
 {% for post in site.portfolio reversed %}
-  {% include single.html %}
+  {% include archive-single.html %}
 {% endfor %}
