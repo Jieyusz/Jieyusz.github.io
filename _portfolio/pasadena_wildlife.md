@@ -1,7 +1,7 @@
 ---
 collection: portfolio
 title: "Pasadena Wildlife"
-permalink: /portfolio/caltech/
+permalink: /portfolio/pasadena_wildlife/
 excerpt: "Wildlife photography in the grand Pasadena Area, including LA County Arboretum and Huntington Library"
 date: 2024-04-01
 ---
