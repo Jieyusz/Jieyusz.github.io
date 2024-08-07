@@ -19,7 +19,7 @@ Caltech Squirrels, July 8th 2024
 
 <img src="/images/Caltech_squirrel2.JPG" alt="Caltech_squirrel2.JPG" style="width: 400px; height: auto;">
 
-<img src="/images/Caltech_squirrel2.JPG" alt="Caltech_squirrel3.JPG" style="width: 400px; height: auto;">
+<img src="/images/Caltech_squirrel3.JPG" alt="Caltech_squirrel3.JPG" style="width: 400px; height: auto;">
 
 Caltech squirrels are introduced species (fox squirrels) that originated from the East Coast. They have been a controversial topic on campus. Check out [this post](https://tech.caltech.edu/2023/09/censorship-and-squirrels/) for more. 
 
