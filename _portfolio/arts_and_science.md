@@ -20,6 +20,11 @@ The unbearable slowness of being
 
 Check out our opinion piece "the Unbearable Slowness of Being" for [more](https://jieyusz.github.io/publication/2024_zheng_slowness)! 
 
+Neurotechers, 2021
+------
+<img src="/images/neurotechs_ghost.jpg" alt="Neurotechers Face" style="width: 400px; height: auto;">
+
+My winning design for the t-shirt design contest for the Caltech Neurotechers club. Prof. Pietro Perona once commented that this painting looks "creepy" and that I should try a different theme. 
 
 Caltech Logo, my version, 2020
 ------
