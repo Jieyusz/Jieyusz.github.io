@@ -26,7 +26,7 @@ Caltech Logo, my version, 2020
 <img src="/images/Caltech_logo.png" alt="Caltech logo digital" style="width: 400px; height: auto;">
 
 
-<img src="/images/Close_up.jpeg" alt="Caltech logo colored" style="width: 400px; height: auto;">
+<img src="/images/Closeup.jpeg" alt="Caltech logo colored" style="width: 400px; height: auto;">
 
 **Title**: Caltech Logo 2020, colourised
 
