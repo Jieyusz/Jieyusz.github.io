@@ -43,3 +43,11 @@ Caltech Logo, my version, 2020
  
 
 The piece should take on a different look farther away and up front. Caltech community is able to recognize the “parody” of our Caltech logo at distance: the two beavers as the hands, the ice cream as the torch. (You can juxtapose the two.) A closer look of it is meant to inspire thoughts about the symbols in the drawing: beavers as Caltechers, rainbow ice cream as a pride symbol, phoenix (a genderless legendary bird); different cultures/countries and majors (monarch butterfly, Saturn, papaya, volcano, etc.). I also want it to fit the autumn/thanksgiving theme and the ambience of Café. Though the drawing itself might take some time for one to relate to diversity, I believe it would be a light-hearted addition to other works in display.
+
+
+Dr. Hristos Courellis's Thesis defense
+-----
+
+<img src="/images/Hristos_poster.png" alt="Hristos" style="width: 400px; height: auto;">
+
+A commission received from Rutishauser lab for my friend and colleague, Hristos Courellis (PhD, '24)'s thesis defense. 
