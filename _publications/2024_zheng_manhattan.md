@@ -24,6 +24,8 @@ CCN 2024 conference information
 Videos
 ------
 
+**Clip of my talk from CCN 2024 live stream** is now on [Youtube](https://www.youtube.com/live/TS04Q-oCCGI?feature=shared&t=2033)! 
+
 **[Wildtype Mice](https://www.youtube.com/watch?v=ULZqNH9vWPA)** in Manhattan: the standard 2-day experiment protocol. Presented at SfN 2022
 
 **[Acortical Mice](https://www.youtube.com/watch?v=hBuVPZND4-0)** in Manhattan: our latest video of one acortical mouse learning four different masks, over just three days!
@@ -33,11 +35,10 @@ Documents
 
 Download the updated abstract [here](http://Jieyusz.github.io/files/CCN_2024_abstract.pdf) (minor errors corrected on figures)
 
-Poster and talk slides coming soon! 
 
-[comment]: <> (Download the poster [here](http://Jieyusz.github.io/files/CCN_poster.pdf))
+Download the poster [here](http://Jieyusz.github.io/files/CCN_poster.pdf)
 
-[comment]: <> (Download the talk slides [here](http://Jieyusz.github.io/files/CCN_talk_final.pdf))
+Download the talk slides [here](http://Jieyusz.github.io/files/CCN_talk_final.pdf)
 
 
 
