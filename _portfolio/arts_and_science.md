@@ -13,12 +13,20 @@ Original design for the neurotecher tote bag, 2024
 
 This tote bag was designed by me as part of the Neurotechers Art Contest. The artwork depicts a dynamic rivalry between the biological intelligence (Neuro) and artificial intelligence (Tech). The biological rat "Neuro" sends an action potential through a head stage. The neural signal is transmitted via the Caltech brain-machine interface, highlighting our collective efforts in the field. The robotic rat receives the signal and emits a low-pass filter voltage profile. The two rats are engaged in a game of Go: the biological rat makes the first move (playing with black stones), and the robotic rat catches up (playing with white stones). The game copies a segment of the historic last match between AlphaGo and Lee Sedol, where AlphaGo ultimately won.
 
-The unbearable slowness of being
+The Unbearable Slowness of Being, 2021
 ------
 
 <img src="/images/slowness.jpg" alt="The Unbearable Slowness of Being" style="width: 400px; height: auto;">
 
-Check out our opinion piece "the Unbearable Slowness of Being" for [more](https://jieyusz.github.io/publication/2024_zheng_slowness)! 
+Selected artwork by the Caltech Science and Art Contest (2022). The manuscript is now on [arXiv](https://arxiv.org/abs/2408.10234)! Check out our opinion piece "the Unbearable Slowness of Being" via this [link](https://jieyusz.github.io/publication/2024_zheng_slowness)! 
+
+ChatGPT interpretation of this painting, assisted by the artist's input:
+
+The painting provides a thought-provoking commentary on the vast disparity between the input and output capacities of the human brain. The painting, with its central eye above the brain, may visually interpret this idea. The eye, often considered a window to the world, represents the sensory system, gathering vast amounts of data from the environment. This is symbolized by the full, vibrant green of the iris and the rich detail within it.
+
+In contrast, the waterfall of tears transitioning into the brain could illustrate the process of data compression, where the massive inflow of sensory information is distilled into a far smaller stream of behavioral output. The brain, depicted in a more subdued palette, might be seen as a filter or a crucible, reducing the flood of sensory input into the trickle of conscious thought and action, represented by the single tear drop falling away from the brain.
+
+The artist seems to question the efficiency or perhaps the necessity of this compression. Why does the brain reduce such a wide bandwidth of information into a mere 10 bits per second of output? It’s a powerful visual metaphor for the complexity and selectivity of human thought, consciousness, and the still-mysterious processes of the brain that determine how we perceive and interact with the world. The artwork could be inviting viewers to ponder the sophistication of the human brain, the value of the information processed, and the selective nature of our conscious actions.
 
 Neurotechers, 2021
 ------

@@ -20,7 +20,9 @@ Before joining Caltech, I did my undergraduate studies at Cornell University (B.
 News and Announcements
 ======
 
-**2024/08/06** - I will present our latest progress on the Manhattan Maze, featuring acortical mice, in [CCN 2024](https://2024.ccneuro.org/poster/?id=485). Check out the full abstract in the link! I received a full travel grant from the Chen Insitute for attending this conference. 
+**2024/08/20** - My first first-authored review, "the Unbearable Slowness of Being," is now on [arXiv](https://doi.org/10.48550/arXiv.2408.10234)! Also check out a [painting](https://jieyusz.github.io/portfolio/arts_and_science/) for the topic. 
+
+**2024/08/06** - I presented our latest progress on the Manhattan Maze, featuring acortical mice, in [CCN 2024](https://jieyusz.github.io/publication/manhattan_ccn). Check out the most up-to-date project info through the link! I received a full travel grant from the Chen Insitute for attending this conference. 
 
 **2024/06/17** - My Advisor Prof. Markus Meister presented our work ["Mouse navigation without hippocampus or neocortex"](https://inavsymposium.com/wp-content/uploads/2024/06/Poster_abstracts_iNAV2024.pdf), of which I am co-first author, at iNAV 2024 in Merano, Italy. 
 
