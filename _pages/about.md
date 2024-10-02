@@ -12,7 +12,7 @@ I am a fourth-year PhD student in the Neurobiology program at the California Ins
 
 Beyond research, I am actively involved in teaching and student activities around Caltech. For two years, I served as the head teaching assistant for CNS187 Neural Computation, a graduate-level course requirement for students in Computation and Neural System. Additionally, I am the current president of the [Neurotechers](https://neurotechers.caltech.edu/) (23-), the official club for Caltech graduate students in neuroscience. You can learn more about me in a short [Spotlight](https://thisis.caltech.edu/person-spotlight-listing?p=2) on Caltech's frontpage, and a short assay about the [best students in class](https://magazine.caltech.edu/post/caltech-initiative-for-students). 
 
-In my free time, I enjoy exploring the mountains, hiking in the summer and skiing in the winter. This season I summited [Mt Whitney](https://en.wikipedia.org/wiki/Mount_Whitney) in one day. I am also an avid bird watcher, artist and wildlife photographer (see my [art portfolio](https://jieyusz.github.io/portfolio/). 
+In my free time, I enjoy exploring the mountains, hiking in the summer and skiing in the winter. This season I summitted [Mt Whitney](https://en.wikipedia.org/wiki/Mount_Whitney) in one day. I am also an avid bird watcher, artist and wildlife photographer (check my [art portfolio](https://jieyusz.github.io/portfolio/)!). 
 
 Before joining Caltech, I did my undergraduate studies at Cornell University (B.S. in Biological Engineering) and Shanghai Jiao Tong University (B.Eng. in Food Science and Engineering). I then obtained a Master's degree (M.Phil) in Education and Psychology from the University of Cambridge. 
 
@@ -22,7 +22,7 @@ News and Announcements
 
 **2024/08/20** - My first first-authored review, "the Unbearable Slowness of Being," is now on [arXiv](https://doi.org/10.48550/arXiv.2408.10234)! Also check out a [painting](https://jieyusz.github.io/portfolio/arts_and_science/) for the topic. 
 
-**2024/08/06** - I presented our latest progress on the Manhattan Maze, featuring acortical mice, in [CCN 2024](https://jieyusz.github.io/publication/manhattan_ccn). Check out the most up-to-date project info through the link! I received a full travel grant from the Chen Insitute for attending this conference. 
+**2024/08/06** - I presented our latest progress on the Manhattan Maze, featuring acortical mice, in [CCN 2024](https://jieyusz.github.io/publication/manhattan_ccn). Check out the most up-to-date project info through the link! I received a full travel grant from the Chen Institute for attending this conference. 
 
 **2024/06/17** - My Advisor Prof. Markus Meister presented our work ["Mouse navigation without hippocampus or neocortex"](https://inavsymposium.com/wp-content/uploads/2024/06/Poster_abstracts_iNAV2024.pdf), of which I am co-first author, at iNAV 2024 in Merano, Italy. 
 
