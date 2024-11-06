@@ -2,9 +2,9 @@
 title: "Mice in the Manhattan Maze: Rapid Learning, Flexible Routing and Generalization, With and Without Cortex"
 collection: talks
 permalink: /publication/manhattan_ccn
-excerpt: 'My main project, using a novel tool to study complex cognition in mice and the role of cortex!'
-date: August 2024
-citation: 'Zheng, J., Guimarães, R., Hu, J., Perona, P., and Meister, M. (In Prep). Mice in the Manhattan Maze: Rapid Learning, Flexible Routing and Generalization'
+venue: "MIT"
+date: 2024-08-09
+location: "Cambridge, MA, USA"
 ---
 
 CCN Conference Abstract 
