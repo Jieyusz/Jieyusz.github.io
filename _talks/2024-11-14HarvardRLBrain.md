@@ -1,5 +1,5 @@
 ---
-title: "Cognition and Cortex: Implications from Rapid learning, Long-term Memory, and Flexible Routing in Rodent Maze Navigation"
+title: "Cognition with and without Cortex: Implications from Mouse Navigation in a Novel Reconfigurable Maze"
 collection: talks
 permalink: /talks/2024_harvard_rl_brain
 venue: "Zoom, Harvard Medical School"
@@ -21,11 +21,11 @@ These findings raise fundamental questions about the role of the cortex in cogni
 Documents
 ------
 
-Slides will be uploaded after the talk. 
-
 [Link](https://jieyusz.github.io/publication/2024_zheng_slowness) to the preprint "the Unbearable Slowness of Being". 
 
-[comment]: <>(Download the talk slides [here](http://Jieyusz.github.io/files/CCN_talk_final.pdf))
+Download the talk slides [here](http://Jieyusz.github.io/files/HarvardRLBrain_final.pdf
+
+Previous [CCN talk](https://jieyusz.github.io/publication/manhattan_ccn) with cute mouse videos
 
 
 
