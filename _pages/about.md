@@ -20,6 +20,8 @@ Before joining Caltech, I did my undergraduate studies at Cornell University (B.
 News and Announcements
 ======
 
+**2024/11/14** - I gave a talk to the Harvard Medical School [RL and the Brain Seminar](https://www.rlandthebrain.com/) about the Manhattan Maze project! Check out the talk content and slides [here](https://jieyusz.github.io/talks/2024_harvard_rl_brain).
+
 **2024/08/20** - My first first-authored review, "the Unbearable Slowness of Being," is now on [arXiv](https://doi.org/10.48550/arXiv.2408.10234)! Also check out a [painting](https://jieyusz.github.io/portfolio/arts_and_science/) for the topic. 
 
 **2024/08/06** - I presented our latest progress on the Manhattan Maze, featuring acortical mice, in [CCN 2024](https://jieyusz.github.io/publication/manhattan_ccn). Check out the most up-to-date project info through the link! I received a full travel grant from the Chen Institute for attending this conference. 

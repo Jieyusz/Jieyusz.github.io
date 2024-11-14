@@ -23,7 +23,7 @@ Documents
 
 [Link](https://jieyusz.github.io/publication/2024_zheng_slowness) to the preprint "the Unbearable Slowness of Being". 
 
-Download the talk slides [here](http://Jieyusz.github.io/files/HarvardRLBrain_final.pdf
+Download the talk slides [here](http://Jieyusz.github.io/files/HarvardRLBrain_final.pdf)
 
 Previous [CCN talk](https://jieyusz.github.io/publication/manhattan_ccn) with cute mouse videos
 
