@@ -1,5 +1,5 @@
 ---
-title: "Cognition with and without Cortex: Implications from Mouse Navigation in a Novel Reconfigurable Maze"
+title: "Cognition with and without Cortex: Implications from Mouse Navigation in a Novel Reconfigurable Maze"
 collection: talks
 permalink: /talks/2024_harvard_rl_brain
 venue: "Zoom, Harvard Medical School"
