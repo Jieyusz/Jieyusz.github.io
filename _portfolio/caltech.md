@@ -6,6 +6,13 @@ excerpt: "Photos taken at Caltech"
 date: 2024-05-01
 ---
 
+Caltech Coyotes, Oct. 18th 2024
+------
+<img src="/images/coyote.jpg" alt="Coyote" style="width: 400px; height: auto;">
+
+<img src="/images/coyote_side.jpg" alt="Coyote" style="width: 400px; height: auto;">
+
+Caution! Coyotes in your area! Taken on Caltech campus. 
 
 
 Giant Swallowtail, July 8th 2024

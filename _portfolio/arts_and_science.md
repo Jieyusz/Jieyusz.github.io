@@ -1,8 +1,8 @@
 ---
 collection: portfolio
-title: "Arts and Neuroscience"
+title: "Arts and Science"
 permalink: /portfolio/arts_and_science/
-excerpt: "Original artwork related to Neuroscience"
+excerpt: "Original artwork related to Science and Neuroscience"
 date: 2024-06-01
 ---
 
