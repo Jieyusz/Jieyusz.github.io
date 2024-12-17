@@ -16,7 +16,7 @@ This tote bag was designed by me as part of the Neurotechers Art Contest. The ar
 The Unbearable Slowness of Being, 2021
 ------
 
-<img src="/images/slowness.jpg" alt="The Unbearable Slowness of Being" style="width: 400px; height: auto;">
+<img src="/images/slowness_vertical_2021.jpg" alt="The Unbearable Slowness of Being" style="width: 400px; height: auto;">
 
 Selected artwork by the Caltech Science and Art Contest (2022). The manuscript is now on [arXiv](https://arxiv.org/abs/2408.10234)! Check out our opinion piece "the Unbearable Slowness of Being" via this [link](https://jieyusz.github.io/publication/2024_zheng_slowness)! 
 
