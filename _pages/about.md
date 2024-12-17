@@ -41,7 +41,7 @@ News and Announcements
 
 **2023/03/22** - I am officially a Ph.D. candidate! 
 
-[comment]: <> (**2022/11/13** - With [Rogério Guimarães](http://twitter.com/rogerioagjr), I presented a poster of the Manhattan Maze project at [SfN 2022](https://twitter.com/JieyuZheng3/status/1591114040973365249), titled "Mice in Manhattan: Mastering and Memorizing Multiple Maps of a Massively Modifiable Maze in Minutes.")
+**2022/11/13** - With [Rogério Guimarães](http://twitter.com/rogerioagjr), I presented a poster of the Manhattan Maze project at [SfN 2022](https://twitter.com/JieyuZheng3/status/1591114040973365249), titled "Mice in Manhattan: Mastering and Memorizing Multiple Maps of a Massively Modifiable Maze in Minutes."
 
 [comment]: <> (**2022/07/15** - I completed the (inaugural) Data Science and AI for Neuroscience summer school, at the Chen Institute for Neuroscience at [Caltech](https://twitter.com/CaltechN/status/1549145513550680064).)
 

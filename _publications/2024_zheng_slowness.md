@@ -13,20 +13,20 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 # Links to the paper
 
-[Arxiv](https://arxiv.org/abs/2408.10234)
+[Arxiv](https://arxiv.org/abs/2408.10234): included the first draft and discussions on Aphaxiv
 
-[Neuron Perspective](https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0)
+[Neuron Perspective](https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0): the camera-ready version
 
 
 # Media coverage to date
 
-[Caltech News](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior): Thinking Slowly: The Paradoxical Slowness of Human Behavior
+[Caltech News](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior) *Thinking Slowly: The Paradoxical Slowness of Human Behavior*
 
-[Discover](https://www.discovermagazine.com/mind/the-information-entering-our-brains-dwarfs-the-amount-coming-out-why): The Information Entering Our Brains Dwarfs The Amount Coming Out — Why?
+[Discover](https://www.discovermagazine.com/mind/the-information-entering-our-brains-dwarfs-the-amount-coming-out-why) *The Information Entering Our Brains Dwarfs The Amount Coming Out — Why?*
 
-[Scientific American](https://www.scientificamerican.com/article/the-human-brain-operates-at-a-stunningly-slow-pace/): The Human Brain Operates at a Stunningly Slow Pace
+[Scientific American](https://www.scientificamerican.com/article/the-human-brain-operates-at-a-stunningly-slow-pace/) *The Human Brain Operates at a Stunningly Slow Pace*
 
-[The Transmitter](https://doi.org/10.53053/OMHU7912): Explaining ‘the largest unexplained number in brain science’: Q&A with Markus Meister and Jieyu Zheng
+[The Transmitter](https://doi.org/10.53053/OMHU7912) *Explaining ‘the largest unexplained number in brain science’: Q&A with Markus Meister and Jieyu Zheng*
 
 
 # Artistic renditions 

@@ -6,7 +6,14 @@ excerpt: "Original artwork related to Science and Neuroscience"
 date: 2024-06-01
 ---
 
-Original design for the neurotecher tote bag, 2024
+The Unbearable Slowness of Being, 2024
+------
+<img src="/images/slowness_horizontal_2024.jpg" alt="The Unbearable Slowness of Being" style="width: 400px; height: auto;">
+
+Created during the drawing and painting class PVS062 2024. 
+
+
+The neurotecher tote bag, 2024
 ------
 
 <img src="/images/neurotech.jpeg" alt="Neurotech Image" style="width: 400px; height: auto;">
@@ -18,7 +25,7 @@ The Unbearable Slowness of Being, 2021
 
 <img src="/images/slowness_vertical_2021.jpg" alt="The Unbearable Slowness of Being" style="width: 400px; height: auto;">
 
-Selected artwork by the Caltech Science and Art Contest (2022). The manuscript is now on [arXiv](https://arxiv.org/abs/2408.10234)! Check out our opinion piece "the Unbearable Slowness of Being" via this [link](https://jieyusz.github.io/publication/2024_zheng_slowness)! 
+Selected artwork by the Caltech Science and Art Contest (2022). Check out our opinion piece "the Unbearable Slowness of Being" via this [link](https://jieyusz.github.io/publication/2024_zheng_slowness)! 
 
 ChatGPT interpretation of this painting, assisted by the artist's input:
 
