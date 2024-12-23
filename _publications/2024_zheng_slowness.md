@@ -24,7 +24,7 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 [Discover](https://www.discovermagazine.com/mind/the-information-entering-our-brains-dwarfs-the-amount-coming-out-why) *The Information Entering Our Brains Dwarfs The Amount Coming Out — Why?*
 
-[Medical Xpress](https://medicalxpress.com/news/2024-12-brain-paradox-quantifies-human-thought.html)
+[Medical Xpress](https://medicalxpress.com/news/2024-12-brain-paradox-quantifies-human-thought.html) *The brain's processing paradox: Study quantifies the speed of human thought*
 
 [Scientific American](https://www.scientificamerican.com/article/the-human-brain-operates-at-a-stunningly-slow-pace/) *The Human Brain Operates at a Stunningly Slow Pace*
 
