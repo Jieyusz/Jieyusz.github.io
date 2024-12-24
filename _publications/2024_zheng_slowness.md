@@ -1,13 +1,16 @@
 ---
-title: "The Unbearable Slowness of Being"
+title: "The unbearable slowness of being: Why do we live at 10 bits/s?"
 collection: publications
 permalink: /publication/2024_zheng_slowness
-excerpt: 'This article is about the neural conundrum behind the slowness of human behavior. The information throughput of a human being is about 10 bits/s. In comparison, our sensory systems gather data at an enormous rate, no less than 1 gigabits/s. The stark contrast between these numbers remains unexplained. Resolving this paradox should teach us something fundamental about brain function: What neural substrate sets this low speed limit on the pace of our existence? Why does the brain need billions of neurons to deal with 10 bits/s? Why can we only think about one thing at a time? In this article, we consider plausible explanations for the conundrum and are led to the problem of routing: The critical limit is not the neural machinery needed to process 10 bits/s for a given task, but the need to switch rapidly between thousands of tasks, and as often as several times a second. This requires a massive degree of flexible routing between sensory streams, motor streams, and the processors that connect them. We review prior proposals on the neural mechanisms of flexible routing and propose research directions to address the paradox between fast neurons and slow behavior.'
+excerpt: 'A review on a major paradox of behavior and brain.'
 date: Aug 2024
 venue: 'Neuron'
 citation: '**Zheng, J.** and Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? Neuron. https://doi.org/10.1016/j.neuron.2024.11.008
 '
 ---
+
+# Abstract
+
 This article is about the neural conundrum behind the slowness of human behavior. The information throughput of a human being is about 10 bits/s. In comparison, our sensory systems gather data at $\sim 1⁢0^9$ bits/s. The stark contrast between these numbers remains unexplained and touches on fundamental aspects of brain function: what neural substrate sets this speed limit on the pace of our existence? Why does the brain need billions of neurons to process 10 bits/s? Why can we only think about one thing at a time? The brain seems to operate in two distinct modes: the “outer” brain handles fast high-dimensional sensory and motor signals, whereas the “inner” brain processes the reduced few bits needed to control behavior. Plausible explanations exist for the large neuron numbers in the outer brain, but not for the inner brain, and we propose new research directions to remedy this.
 
 
