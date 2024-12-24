@@ -25,6 +25,8 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 # Media coverage to date (in rough alphabetical order)
 
+[BBC Newsroom](https://www.bbc.co.uk/sounds/play/w172zbqpn0zv0tj) An interview with Prof. Meister. Starting 19:25.
+
 [Caltech News](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior) *Thinking Slowly: The Paradoxical Slowness of Human Behavior*
 
 [Discover](https://www.discovermagazine.com/mind/the-information-entering-our-brains-dwarfs-the-amount-coming-out-why) *The Information Entering Our Brains Dwarfs The Amount Coming Out — Why?*
