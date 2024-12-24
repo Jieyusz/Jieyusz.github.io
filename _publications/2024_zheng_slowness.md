@@ -13,12 +13,14 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 # Links to the paper
 
-[Arxiv](https://arxiv.org/abs/2408.10234): included the first draft and discussions on Aphaxiv
+[Arxiv](https://arxiv.org/abs/2408.10234): the latest preprint (same content as on Neuron)
+
+[Alphaxiv](https://www.alphaxiv.org/abs/2408.10234): includes the discussions about the first draft and author responses. The comments are still being monitored by the authors.
 
 [Neuron Perspective](https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0): the camera-ready version
 
 
-# Media coverage to date
+# Media coverage to date (in rough alphabetical order)
 
 [Caltech News](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior) *Thinking Slowly: The Paradoxical Slowness of Human Behavior*
 
@@ -28,12 +30,14 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 [Scientific American](https://www.scientificamerican.com/article/the-human-brain-operates-at-a-stunningly-slow-pace/) *The Human Brain Operates at a Stunningly Slow Pace*
 
+[The Times](https://www.thetimes.com/uk/science/article/wi-fi-is-faster-than-your-ridiculously-slow-brain-5rlssdpk6) *Wi-fi is faster than your ‘ridiculously slow’ brain*
+
 [The Transmitter](https://doi.org/10.53053/OMHU7912) *Explaining ‘the largest unexplained number in brain science’: Q&A with Markus Meister and Jieyu Zheng*
 
 
 # Artistic renditions 
 
-<img src="/images/slowness_horizontal_2024.jpg" alt="The Unbearable Slowness of Being" style="width: 500px; height: auto;">
+<img src="/images/slowness_horizontal_2024.jpg" alt="The Unbearable Slowness of Being" style="width: 600px; height: auto;">
 
 Created during the drawing and painting class PVS062 2024. 
 
