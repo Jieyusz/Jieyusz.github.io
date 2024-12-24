@@ -16,11 +16,11 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 # Links to the paper
 
-[Arxiv](https://arxiv.org/abs/2408.10234): the latest preprint (same content as on Neuron)
+[Arxiv](https://arxiv.org/abs/2408.10234): includes the first draft (v1) and the latest preprint (v2, same content as on Neuron)
 
 [Alphaxiv](https://www.alphaxiv.org/abs/2408.10234): includes the discussions about the first draft and author responses. The comments are still being monitored by the authors.
 
-[Neuron Perspective](https://www.cell.com/neuron/fulltext/S0896-6273(24)00808-0): the camera-ready version
+[Neuron Perspective](https://authors.elsevier.com/c/1kHVa3BtfH9BQG): the camera-ready version through the sharable link from the author
 
 
 # Media coverage to date (in rough alphabetical order)
