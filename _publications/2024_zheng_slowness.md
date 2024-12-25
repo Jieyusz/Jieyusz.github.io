@@ -25,7 +25,9 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 # Media coverage to date (in rough alphabetical order)
 
-[BBC Newsroom](https://www.bbc.co.uk/sounds/play/w172zbqpn0zv0tj) An interview with Prof. Meister. Starting 19:25.
+[BBC Global News Podcast](https://www.bbc.co.uk/sounds/play/p0kf2tts) Dec 24th, 2024. An interview with Prof. Meister. Starting at 20:05. 
+
+[BBC Newsroom](https://www.bbc.co.uk/sounds/play/w172zbqpn0zv0tj) An interview with Prof. Meister. Starting at 19:25.
 
 [Caltech News](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior) *Thinking Slowly: The Paradoxical Slowness of Human Behavior*
 
