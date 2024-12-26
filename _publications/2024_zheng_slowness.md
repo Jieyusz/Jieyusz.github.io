@@ -20,10 +20,12 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 [Alphaxiv](https://www.alphaxiv.org/abs/2408.10234): includes the discussions about the first draft and author responses. The comments are still being monitored by the authors.
 
-[Neuron Perspective](https://authors.elsevier.com/c/1kHVa3BtfH9BQG): the camera-ready version through the sharable link from the author
+[Neuron Perspective](https://authors.elsevier.com/c/1kHVa3BtfH9BQG): the camera-ready version through the sharable link from the authors
 
 
-# Media coverage to date (in rough alphabetical order)
+# Media coverage to date
+
+## Endorsed by interviews with the authors
 
 [BBC Global News Podcast](https://www.bbc.co.uk/sounds/play/p0kf2tts) Dec 24th, 2024. An interview with Prof. Meister. Starting at 20:05. 
 
@@ -31,16 +33,35 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 [Caltech News](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior) *Thinking Slowly: The Paradoxical Slowness of Human Behavior*
 
-[Discover](https://www.discovermagazine.com/mind/the-information-entering-our-brains-dwarfs-the-amount-coming-out-why) *The Information Entering Our Brains Dwarfs The Amount Coming Out — Why?*
-
-[Medical Xpress](https://medicalxpress.com/news/2024-12-brain-paradox-quantifies-human-thought.html) *The brain's processing paradox: Study quantifies the speed of human thought*
+[New York Times](https://www.nytimes.com/2024/12/26/science/speed-of-thought.html?smid=url-share) *The Speed of Human Thought Lags Far Behind Your Internet Connection, Study Finds*
 
 [Scientific American](https://www.scientificamerican.com/article/the-human-brain-operates-at-a-stunningly-slow-pace/) *The Human Brain Operates at a Stunningly Slow Pace*
 
-[The Times](https://www.thetimes.com/uk/science/article/wi-fi-is-faster-than-your-ridiculously-slow-brain-5rlssdpk6) *Wi-fi is faster than your ‘ridiculously slow’ brain*
-
 [The Transmitter](https://doi.org/10.53053/OMHU7912) *Explaining ‘the largest unexplained number in brain science’: Q&A with Markus Meister and Jieyu Zheng*
 
+## More coverage (English)
+
+[Discover](https://www.discovermagazine.com/mind/the-information-entering-our-brains-dwarfs-the-amount-coming-out-why) first coverage on our preprint: *The Information Entering Our Brains Dwarfs The Amount Coming Out — Why?* 
+
+[Discover](https://www.discovermagazine.com/mind/when-it-comes-to-thinking-our-brains-are-surprisingly-slow) on the published perspective: *When It Comes to Thinking, Our Brains Are Surprisingly Slow*
+
+[Medical Xpress](https://medicalxpress.com/news/2024-12-brain-paradox-quantifies-human-thought.html) *The brain's processing paradox: Study quantifies the speed of human thought*
+
+[Techspot](https://www.techspot.com/news/106080-human-thought-crawls-10-bits-second-caltech-study.html) *Human thought crawls at 10 bits per second, Caltech study finds*
+
+[Technology Networks](https://www.technologynetworks.com/tn/news/caltech-scientists-have-quantified-the-speed-of-human-thought-394395) *Caltech Scientists Have Quantified the Speed of Human Thought*
+
+[The Times](https://www.thetimes.com/uk/science/article/wi-fi-is-faster-than-your-ridiculously-slow-brain-5rlssdpk6) *Wi-fi is faster than your ‘ridiculously slow’ brain*
+
+[Yahoo News](https://www.yahoo.com/news/youll-laugh-hear-many-bits-140002996.html) *You'll Laugh When You Hear How Many Bits Per Second the Human Brain Processes... Once Your Sluggish Human Brain Finally Comprehends It, That Is*
+
+## Other languages
+
+[Muy Interesante](https://www.muyinteresante.com/ciencia/velocidad-del-pensamiento-humano.html) *Científicos miden la velocidad real del pensamiento humano: el resultado ha causado sorpresa y resuelve el debate "eficiencia vs. velocidad"*
+
+[Welingelichte Kringen](https://www.welingelichtekringen.nl/wetenschap/onze-hersenen-werken-met-10-bits-per-seconden-wifi-met-50-mb) *Onze hersenen werken met 10 bits per seconden, WIFI met 50 MB*
+
+[Rzeczpospolita](https://www.rp.pl/nauka/art41613981-naukowcy-obliczyli-jak-szybko-mysla-ludzie-predkosc-jest-wyjatkowo-niska) *Naukowcy obliczyli, jak szybko myślą ludzie. Prędkość jest „wyjątkowo niska”*
 
 # Artistic renditions 
 
