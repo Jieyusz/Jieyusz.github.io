@@ -57,11 +57,16 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 ## Other languages
 
+[Helsingin Sanomat](https://www.hs.fi/tiede/art-2000010937202.html) *Ajatuksiesi nopeus ei ole järin suuri, ja se on nyt mitattu*
+
 [Muy Interesante](https://www.muyinteresante.com/ciencia/velocidad-del-pensamiento-humano.html) *Científicos miden la velocidad real del pensamiento humano: el resultado ha causado sorpresa y resuelve el debate "eficiencia vs. velocidad"*
 
 [Welingelichte Kringen](https://www.welingelichtekringen.nl/wetenschap/onze-hersenen-werken-met-10-bits-per-seconden-wifi-met-50-mb) *Onze hersenen werken met 10 bits per seconden, WIFI met 50 MB*
 
 [Rzeczpospolita](https://www.rp.pl/nauka/art41613981-naukowcy-obliczyli-jak-szybko-mysla-ludzie-predkosc-jest-wyjatkowo-niska) *Naukowcy obliczyli, jak szybko myślą ludzie. Prędkość jest „wyjątkowo niska”*
+
+[环球科学](https://mp.weixin.qq.com/s/uXK8vSGAADV3oUW7ddASLg) *人类一生能获得的知识存在上限，科学家已经算出来了*
+
 
 # Artistic renditions 
 
