@@ -31,6 +31,8 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 [Caltech News](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior) *Thinking Slowly: The Paradoxical Slowness of Human Behavior*
 
+[Mediapart](https://www.mediapart.fr/journal/culture-et-idees/180125/propos-de-l-insoutenable-lenteur-de-l-etre) *À propos de l’insoutenable lenteur de l’être*
+
 [New York Times](https://www.nytimes.com/2024/12/26/science/speed-of-thought.html?smid=url-share) *The Speed of Human Thought Lags Far Behind Your Internet Connection, Study Finds*
 
 [Scientific American](https://www.scientificamerican.com/article/the-human-brain-operates-at-a-stunningly-slow-pace/) *The Human Brain Operates at a Stunningly Slow Pace*
