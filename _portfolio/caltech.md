@@ -6,13 +6,15 @@ excerpt: "Photos taken at Caltech"
 date: 2024-05-01
 ---
 
-Caltech Coyotes, Oct. 18th 2024
-------
-<img src="/images/coyote.jpg" alt="Coyote" style="width: 400px; height: auto;">
+## Caltech Wildlife Column
 
 <img src="/images/coyote_side.jpg" alt="Coyote" style="width: 400px; height: auto;">
 
-Caution! Coyotes in your area! Taken on Caltech campus. 
+I write and take photographs for [*Caltech Wildlife*](https://tech.caltech.edu/categories/caltech-wildlife/), a column for the biweekly student newspaper, *The California Tech*.
+
+Recent articles: 
+- [Acorn woodpeckers](https://tech.caltech.edu/2025/03/04/caltech-woodpeckers/)
+- ["Coyotech"](https://tech.caltech.edu/2025/02/18/caltech-wildlife-coyotes-on-campus/) by Victoria Davis
 
 
 Giant Swallowtail, July 8th 2024

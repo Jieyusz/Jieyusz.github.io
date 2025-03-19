@@ -20,6 +20,10 @@ Education
 
 Research experiences
 ======
+* **Abstract State Representations in the Frontal Cortex: A Comparison between Mice and Humans** 
+  * Dec. 2023 - Feb. 2025
+  * Independent project collaborated with Hristos Courellis, Caltech
+
 * **Mice in Manhattan: Efficient Exploration and Automated Theory Testing in a Rapidly Reconfigurable Maze**
   * Dec. 2021 - Present
   * Supervisor: Markus Meister, Biaggini Professor of Biological Sciences, Caltech
@@ -35,11 +39,6 @@ Research experiences
 * **Ex vivo Imaging of Drosophila Olfactory System Development**
   * May - Aug. 2017
   * Supervisor: Liqun Luo, Professor of Biology, Investigator of Howard Hughes Medical Institute, Stanford University
-
-* **Functions of CXCL12 during Recovery from Ischemic Strokes in Mice**
-  * Jan. - Oct. 2015
-  * Supervisor: Yongting Wang, Professor of Med-X Neuroscience and Engineering Centre, SJTU
-
 
 Publications
 ======
