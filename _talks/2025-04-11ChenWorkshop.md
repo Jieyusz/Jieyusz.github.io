@@ -3,7 +3,7 @@ title: "The Unbearable Slowness of Being: The limit of human behavior at 10 bits
 collection: talks
 permalink: /talks/2025_chen_workshop
 venue: "Chen Institute of Neuroscience, Caltech"
-date: 2024-11-14
+date: 2025-04-11
 location: "Pasadena, CA"
 ---
 
