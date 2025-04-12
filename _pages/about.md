@@ -22,6 +22,8 @@ News and Announcements
 
 **2025/4/27** - I am attending and presenting a poster at the Conference of Grounding Cognition in Mechanistic Insight at [HHMI Janelia](https://www.janelia.org/you-janelia/conferences/grounding-cognition-in-mechanistic-insight). Contact me if you want to catch up. 
 
+**2025/4/11** - I presented "Slowness of Being" for the first time in public at the [Chen Institute Workshop](https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-cross-species-modalities) on Cross-Species Modalities in Cognition and Behavior! Check [here](https://jieyusz.github.io/talks/2025_chen_workshop). 
+
 **2025/3/17** - My original course, [Winter 2025 Bi23 Sec1](https://jieyusz.github.io/teaching/2025-bi23) *Learning Across Species: Foundations and Frontiers in the Ethology of Learning*, just concluded! Caltech access to the Canvas archive [here](https://caltech.instructure.com/courses/8300).
 
 **2024/12/17** - "The Unbearable Slowness of Being" was [published](https://doi.org/10.1016/j.neuron.2024.11.008) today! Check out this [page](https://jieyusz.github.io/publication/2024_zheng_slowness) for more.
