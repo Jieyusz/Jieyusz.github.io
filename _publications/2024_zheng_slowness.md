@@ -22,6 +22,9 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 [Neuron Perspective](https://doi.org/10.1016/j.neuron.2024.11.008)
 
+# Talks 
+
+25-04-11 [Chen Institute Workshop](http://Jieyusz.github.io/talks/2025_chen_workshop) on Cross-Species Modalities in Cognition and Behavior
 
 # Selected Media coverage
 
