@@ -8,39 +8,25 @@ date: 2024-05-01
 
 ## Caltech Wildlife Column
 
-<img src="/images/coyote_side.jpg" alt="Coyote" style="width: 400px; height: auto;">
+<img src="/images/coyote_side.jpg" alt="Coyote" style="width: 500px; height: auto;">
 
 I write and take photographs for [*Caltech Wildlife*](https://tech.caltech.edu/categories/caltech-wildlife/), a column for the biweekly student newspaper, *The California Tech*.
 
 Recent articles: 
+- [Bird Immigrants](https://tech.caltech.edu/2025/04/22/caltech-wildlife-bird-immigrants/)
+- [The Migrators](https://tech.caltech.edu/2025/04/08/caltech-wildlife-the-migrators/)
 - [Acorn woodpeckers](https://tech.caltech.edu/2025/03/04/caltech-woodpeckers/)
-- ["Coyotech"](https://tech.caltech.edu/2025/02/18/caltech-wildlife-coyotes-on-campus/) by Victoria Davis
-
-
-Giant Swallowtail, July 8th 2024
-------
-<img src="/images/swallowtail.JPG" alt="Giant Swallow Tail" style="width: 400px; height: auto;">
-
-
-Caltech Squirrels, July 8th 2024
-------
-<img src="/images/caltech_squirrel1.JPG" alt="caltech_squirrel1.JPG" style="width: 400px; height: auto;">
-
-<img src="/images/Caltech_squirrel2.JPG" alt="Caltech_squirrel2.JPG" style="width: 400px; height: auto;">
-
-<img src="/images/Caltech_squirrel3.JPG" alt="Caltech_squirrel3.JPG" style="width: 400px; height: auto;">
-
-Caltech squirrels are introduced species (fox squirrels) that originated from the East Coast. They have been a controversial topic on campus. Check out [this post](https://tech.caltech.edu/2023/09/censorship-and-squirrels/) for more. 
-
-Caltech Turtles, July 8th 2024
-------
-<img src="/images/Caltech_turtle1.JPG" alt="Caltech_turtle1.JPG" style="width: 400px; height: auto;">
+- [Coyotech](https://tech.caltech.edu/2025/02/18/caltech-wildlife-coyotes-on-campus/) by Victoria Davis
 
 <img src="/images/Caltech_turtle2.JPG" alt="Caltech_turtle2.JPG" style="width: 400px; height: auto;">
 
-<img src="/images/caltech_turtle3.JPG" alt="caltech_turtle3.JPG" style="width: 400px; height: auto;">
+Caltech red-eared slider, at the [turtle pond](https://turtle.clubs.caltech.edu/faqs)
 
-Caltech has a dedicated turtle pond and a turtle club. Check out their website [here](https://turtle.clubs.caltech.edu/faqs)
+My photos are also featured by Caltech Magazine, and [Ion Caltech](https://ion.caltech.edu/). List of features below: 
+- [Ion Caltech Monday, May 12, 2025](https://us11.campaign-archive.com/?u=b45e3f84fc6604dfac0c95efa&id=479eea5032)
+- [Ion Caltech Monday, April 21, 2025](https://us11.campaign-archive.com/?u=b45e3f84fc6604dfac0c95efa&id=4454b6c1e3)
+- [Caltech BBE Newsletter Fall 2024](https://new.express.adobe.com/webpage/8aMKW6gpPYmUD)
+
 
 
 
