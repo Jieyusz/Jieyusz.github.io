@@ -8,6 +8,9 @@ venue: 'Neuron'
 citation: '**Zheng, J.** and Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? Neuron. https://doi.org/10.1016/j.neuron.2024.11.008
 '
 ---
+<img src="/images/slowness_horizontal_2024.jpg" alt="The Unbearable Slowness of Being" style="width: 600px; height: auto;">
+
+Created by Jieyu Zheng during the drawing and painting class PVS062 2024. 
 
 # Abstract
 
@@ -30,6 +33,8 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 ## Endorsed by interviews with the authors
 
+[Caltech Magazine](https://magazine.caltech.edu/post/speed-of-thought-meister-zheng) May 12, 2025. *The Remarkably Slow Speed of Thought*
+
 [BBC Global News Podcast](https://www.bbc.co.uk/sounds/play/p0kf2tts) Dec 24th, 2024. An interview with Prof. Meister, starting at 20:05, and [BBC Newsroom](https://www.bbc.co.uk/sounds/play/w172zbqpn0zv0tj), starting at 19:25.
 
 [Caltech News](https://www.caltech.edu/about/news/thinking-slowly-the-paradoxical-slowness-of-human-behavior) *Thinking Slowly: The Paradoxical Slowness of Human Behavior*
@@ -44,7 +49,11 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 [Aviation Week](https://aviationweek.com/aerospace/emerging-technologies/why-managerial-norms-are-changing-match-new-technologies) *Why Managerial Norms Are Changing To Match New Technologies*
 
-## More coverage
+<img src="/images/slowness_vertical_2021.jpg" alt="The Unbearable Slowness of Being" style="width: 400px; height: auto;">
+
+Created by Jieyu Zheng. Selected for display by the Caltech Science and Art Contest (2022).
+
+## More coverage (in different languages)
 
 [Discover](https://www.discovermagazine.com/mind/the-information-entering-our-brains-dwarfs-the-amount-coming-out-why) first coverage on our preprint: *The Information Entering Our Brains Dwarfs The Amount Coming Out — Why?* and on the [published perspective](https://www.discovermagazine.com/mind/when-it-comes-to-thinking-our-brains-are-surprisingly-slow) : *When It Comes to Thinking, Our Brains Are Surprisingly Slow*
 
@@ -54,15 +63,6 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 [环球科学](https://mp.weixin.qq.com/s/uXK8vSGAADV3oUW7ddASLg) *人类一生能获得的知识存在上限，科学家已经算出来了*
 
-# Artistic renditions 
-
-<img src="/images/slowness_horizontal_2024.jpg" alt="The Unbearable Slowness of Being" style="width: 600px; height: auto;">
-
-Created during the drawing and painting class PVS062 2024. 
-
-<img src="/images/slowness_vertical_2021.jpg" alt="The Unbearable Slowness of Being" style="width: 400px; height: auto;">
-
-Selected for display by the Caltech Science and Art Contest (2022).
 
 
 

@@ -20,7 +20,7 @@ Before joining Caltech, I did my undergraduate studies at Cornell University (B.
 News and Announcements
 ======
 
-**2025/4/27** - I am attending and presenting a poster at the Conference of Grounding Cognition in Mechanistic Insight at [HHMI Janelia](https://www.janelia.org/you-janelia/conferences/grounding-cognition-in-mechanistic-insight). Contact me if you want to catch up. 
+**2025/4/27** - I attended and presented a poster at the Conference of Grounding Cognition in Mechanistic Insight at [HHMI Janelia](https://www.janelia.org/you-janelia/conferences/grounding-cognition-in-mechanistic-insight). 
 
 **2025/4/11** - I presented "Slowness of Being" for the first time in public at the [Chen Institute Workshop](https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-cross-species-modalities) on Cross-Species Modalities in Cognition and Behavior! Check [here](https://jieyusz.github.io/talks/2025_chen_workshop). 
 

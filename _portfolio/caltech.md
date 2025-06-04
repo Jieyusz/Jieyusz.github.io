@@ -13,6 +13,7 @@ date: 2024-05-01
 I write and take photographs for **Caltech Wildlife**, a column for the biweekly student newspaper, [*The California Tech*](https://tech.caltech.edu/).
 
 Recent articles:
+- [Juvenile Panel Interview](https://tech.caltech.edu/2025/06/03/caltech-wildlife-juveniles/)
 - [Fox Squirrels](https://tech.caltech.edu/2025/05/12/caltech-wildlife-fox-squirrels/)
 - [Bird Immigrants](https://tech.caltech.edu/2025/04/22/caltech-wildlife-bird-immigrants/)
 - [The Migrators](https://tech.caltech.edu/2025/04/08/caltech-wildlife-the-migrators/)
