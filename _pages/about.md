@@ -19,6 +19,7 @@ Before joining Caltech, I did my undergraduate studies at Cornell University (B.
 
 News and Announcements
 ======
+**2025/11/15** - I will attend and present in SfN 2025 this year with the abstract titled *Cognition Without Cortex: Rapid Learning, Generalization, and Long-Term Memory in Acortical Mice.* More details to follow! 
 
 **2025/4/27** - I attended and presented a poster at the Conference of Grounding Cognition in Mechanistic Insight at [HHMI Janelia](https://www.janelia.org/you-janelia/conferences/grounding-cognition-in-mechanistic-insight). 
 
