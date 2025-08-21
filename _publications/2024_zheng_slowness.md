@@ -47,6 +47,8 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 [The Transmitter](https://doi.org/10.53053/OMHU7912) *Explaining ‘the largest unexplained number in brain science’: Q&A with Markus Meister and Jieyu Zheng*
 
+[Der Spiegel]( https://www.spiegel.de/wissenschaft/mensch/gehirn-wir-koennen-nur-an-eine-sache-gleichzeitig-denken-warum-eigentlich-a-271225b7-0f2d-47bc-b336-9074f4ee5aa6?giftToken=4bb1c212-3bbc-4e43-b835-2a87a4826100) *Warum können wir eigentlich nur an eine Sache zur selben Zeit denken?*
+
 [Aviation Week](https://aviationweek.com/aerospace/emerging-technologies/why-managerial-norms-are-changing-match-new-technologies) *Why Managerial Norms Are Changing To Match New Technologies*
 
 <img src="/images/slowness_vertical_2021.jpg" alt="The Unbearable Slowness of Being" style="width: 400px; height: auto;">
