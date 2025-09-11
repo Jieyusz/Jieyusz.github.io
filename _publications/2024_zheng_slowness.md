@@ -29,6 +29,8 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 25-04-11 [Chen Institute Workshop](http://Jieyusz.github.io/talks/2025_chen_workshop) on Cross-Species Modalities in Cognition and Behavior
 
+25-10-11 [Explore Caltech 2025](http://Jieyusz.github.io/talks/2025_explore_caltech) a 10-minute talk to the genearl public.
+
 # Selected Media coverage
 
 ## Endorsed by interviews with the authors

@@ -1,13 +1,32 @@
 ---
-title: "Life without Cortex"
+title: "Life and Cognition without Cortex"
 collection: publications
 permalink: /publication/2024_zheng_cortex
-excerpt: 'This work is co-first-authored with Dr. Zeynep Turan. Click the link for the abstract!'
-date: June 2024
+excerpt: 'This work is co-first-authored with Dr. Zeynep Turan.'
+date: Nov. 2025
 venue: 'In Prep'
-citation: '**Zheng, J.**, Turan, Z., Pollak, D., and Meister, M. (In Prep). Life without Cortex'
+citation: '**Zheng, J.**, Turan, Z., Sadorf, K., and Meister, M. (In Prep). Life without Cortex'
 ---
-In humans, the neocortex (CTX) plays essential roles in sensory processing and motor control. Furthermore, the interplay between the neocortex and hippocampus (HPC) is necessary for the formation, retention, and recall of memories. It is commonly assumed that this applies to rodents as well. Here we tested these ideas using a mouse mutant that lacks the dorsal forebrain, including the hippocampus and most of the neocortex.
-We studied the acortical (ACT) mutant in four naturalistic tasks: escape from predator, hunting of prey, navigation in a complex labyrinth, and long-term memory ranging from hours to weeks. Some of the experiments were repeated on mice with acute lesions to the cortex and hippocampus. We found that ACT mice are proficient in all these behaviors. On tasks that require learning, they take ~3x longer to mastery than normal mice. For example, the ACT animals - like normal mice - exhibit one-shot learning of a reward location in a complex maze. However, it takes them longer to discover that location. As a rule, the ACT mouse's behavior includes more repetition and less exploration. In addition, we found a few specific deficits: clumsy manipulation with the digits of the forepaw, and a failure to transition from escape to sheltering during predator avoidance. Both deficits are expected based on known cortical pathways.
-We conclude that the neocortex and hippocampus are not necessary for escape, pursuit, navigation, or learning. The absence of CTX/HPC introduces behavioral changes that slow the learning process but do not eliminate learning or memory itself. Our findings call attention to the power of subcortical pathways in all these functions. We conclude that rodents use CTX/HPC in ways that are categorically different from primates, which recommends caution when translating human psychiatric disorders to mice.
+
+# Talks and presentations 
+
+## [SfN 2025](https://www.sfn.org/meetings/neuroscience-2025/) Cognition Without Cortex: Rapid Learning, Generalization, and Long-Term Memory in Acortical Mice
+
+*I'll present the latest progress about the acortical mice at the SfN 2025 meeting. This is funded by the Trainee Professional Development Award (TPDA) and the Chen Institute Travel Aaward.*
+
+**Presentation time: (1) Sat. Nov. 15 Early-career presentation (2) Wed. Nov. 19 Session Animal Navigation**
+
+**Abstract**
+
+In humans, the neocortex and hippocampus are central to memory, learning, and cognitive flexibility. To test whether these structures are similarly essential for rodent cognition, we studied an “acortical” mouse mutant born without the dorsal forebrain, lacking hippocampus and most of the neocortex. We tested these mice in two maze tasks: a complex binary-choice labyrinth and a massively reconfigurable arena called the Manhattan Maze. We probed four phases of learning across increasing timescales: exploration leading to reward discovery, rapid learning of anoptimal route, long-term memory of the same environment, and generalization to novel mazes.
+
+Surprisingly, acortical mice were impaired only during the early training and exploration phase but retained other learning capacities. Despite delayed discovery of the reward location in the maze (~3× slower than controls), they exhibited one-shot learning of a short route to the reward, comparable to normal mice. They also rapidly obtained rewards when revisiting the same maze configurations after weeks-long and even months-long gaps. After learning the first maze, they solved new configurations more efficiently, generalizing across both acyclic and cyclic graph structures.
+
+Together, these results show that the absence of cortex and hippocampus in the acortical mice slows the initial phase of exploration leading to a solution, but does not interfere with rapid exploitation of that solution, long-term memory, or generalization across similar tasks in the long run. We highlight the potential of subcortical circuits to support complex spatial cognition in mice, and suggest a more limited and specific role for the mouse hippocampus in the process of learning.
+
+*Poster and talk info will be posted closer to the meeting.*
+
+## Other related talks: 
+
+[2024 Harvard RL and Brain Seminar](http://Jieyusz.github.io/talks/2024_harvard_rl_brain)
 
