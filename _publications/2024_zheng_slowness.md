@@ -29,7 +29,7 @@ This article is about the neural conundrum behind the slowness of human behavior
 
 25-04-11 [Chen Institute Workshop](http://Jieyusz.github.io/talks/2025_chen_workshop) on Cross-Species Modalities in Cognition and Behavior
 
-25-10-11 [Explore Caltech 2025](http://Jieyusz.github.io/talks/2025_explore_caltech) a 10-minute talk to the genearl public.
+25-10-11 [Explore Caltech 2025](http://Jieyusz.github.io/talks/2025_explore_caltech) a 10-minute talk to the general public.
 
 # Selected Media coverage
 
@@ -66,6 +66,10 @@ Created by Jieyu Zheng. Selected for display by the Caltech Science and Art Cont
 [Yahoo News](https://www.yahoo.com/news/youll-laugh-hear-many-bits-140002996.html) *You'll Laugh When You Hear How Many Bits Per Second the Human Brain Processes... Once Your Sluggish Human Brain Finally Comprehends It, That Is*
 
 [环球科学](https://mp.weixin.qq.com/s/uXK8vSGAADV3oUW7ddASLg) *人类一生能获得的知识存在上限，科学家已经算出来了*
+
+[Sabine Hossenfelder](https://www.youtube.com/watch?app=desktop&v=EnltgiUR3eo) *Researchers Warn of “Musk Illusion” That Brain Can be Sped Up*
+
+
 
 
 
