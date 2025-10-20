@@ -26,6 +26,7 @@ Recent articles:
 Caltech red-eared slider, at the [turtle pond](https://turtle.clubs.caltech.edu/faqs)
 
 My photos are also featured by Caltech Magazine, and [Ion Caltech](https://ion.caltech.edu/). List of features below: 
+- [Ion Caltech Monday, October 6, 2025](https://mailchi.mp/caltech/ion-caltech-4900604?e=0c52bdb338)
 - [Ion Caltech Monday, May 12, 2025](https://us11.campaign-archive.com/?u=b45e3f84fc6604dfac0c95efa&id=479eea5032)
 - [Ion Caltech Monday, April 21, 2025](https://us11.campaign-archive.com/?u=b45e3f84fc6604dfac0c95efa&id=4454b6c1e3)
 - [Caltech BBE Newsletter Fall 2024](https://new.express.adobe.com/webpage/8aMKW6gpPYmUD)
