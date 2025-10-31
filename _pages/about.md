@@ -21,6 +21,8 @@ News and Announcements
 ======
 **2025/11/15** - I will attend and present in SfN 2025 this year with the abstract titled *Cognition Without Cortex: Rapid Learning, Generalization, and Long-Term Memory in Acortical Mice.* More details to follow! 
 
+**2025/08/12** - My collaborator [Rogério Guimarães](https://rogeriojr.com/) presented our extended project of human subjects in mazes at CCN 2025. Check out the abstract [here](http://Jieyusz.github.io/files/Guimaraes_2025_CCN.pdf).
+
 **2025/4/27** - I attended and presented a poster at the Conference of Grounding Cognition in Mechanistic Insight at [HHMI Janelia](https://www.janelia.org/you-janelia/conferences/grounding-cognition-in-mechanistic-insight). 
 
 **2025/4/11** - I presented "Slowness of Being" for the first time in public at the [Chen Institute Workshop](https://neuroscience.caltech.edu/programs/workshops/chen-institute-workshop-cross-species-modalities) on Cross-Species Modalities in Cognition and Behavior! Check [here](https://jieyusz.github.io/talks/2025_chen_workshop). 
@@ -33,6 +35,6 @@ News and Announcements
 
 **2024/08/20** - My first first-authored review, "the Unbearable Slowness of Being," is now on [arXiv](https://doi.org/10.48550/arXiv.2408.10234)! 
 
-**2024/08/06** - I presented our latest progress on the Manhattan Maze, featuring acortical mice, in [CCN 2024](https://jieyusz.github.io/publication/manhattan_ccn). Check out the most up-to-date project info through the link! I received a full travel grant from the Chen Institute for attending this conference. 
+**2024/08/06** - I presented our latest progress on the Manhattan Maze, featuring acortical mice, in [CCN 2024](https://jieyusz.github.io/talks/manhattan_ccn). Check out the most up-to-date project info through the link! I received a full travel grant from the Chen Institute for attending this conference. 
 
 **2024/06/17** - My Advisor Prof. Markus Meister presented our work ["Mouse navigation without hippocampus or neocortex"](https://inavsymposium.com/wp-content/uploads/2024/06/Poster_abstracts_iNAV2024.pdf), of which I am co-first author, at iNAV 2024 in Merano, Italy. 

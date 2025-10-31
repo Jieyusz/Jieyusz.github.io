@@ -1,7 +1,7 @@
 ---
 title: "Mice in the Manhattan Maze: Rapid Learning, Flexible Routing and Generalization, With and Without Cortex"
 collection: talks
-permalink: /publication/manhattan_ccn
+permalink: /talks/manhattan_ccn
 venue: "MIT"
 date: 2024-08-09
 location: "Cambridge, MA, USA"
