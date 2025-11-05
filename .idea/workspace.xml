@@ -7,9 +7,11 @@
     <list default="true" id="987bc0e4-87fe-4876-800e-4c20e5698b28" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/.Rhistory" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_publications/2024_zheng_manhattan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/2024_zheng_manhattan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_talks/2024_zheng_ccn.md" beforeDir="false" afterPath="$PROJECT_DIR$/_talks/2024_zheng_ccn.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2012-03-01-talk-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2013-03-01-tutorial-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-02-01-talk-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_talks/2014-03-01-talk-3.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/jieyu/Documents/Jieyusz.github.io/_portfolio",
+    "last_opened_file_path": "/home/jieyu/Documents/Jieyusz.github.io/_talks",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +48,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_talks" />
       <recent name="$PROJECT_DIR$/_portfolio" />
       <recent name="$PROJECT_DIR$/_pages" />
     </key>
@@ -67,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1655943488757</updated>
       <workItem from="1722638849047" duration="5020000" />
-      <workItem from="1761942648257" duration="589000" />
+      <workItem from="1761942648257" duration="1226000" />
+      <workItem from="1762380931295" duration="2599000" />
     </task>
     <servers />
   </component>
