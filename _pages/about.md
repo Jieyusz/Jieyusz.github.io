@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am currently seeking postdoctoral positions starting in 2026** to continue investigating cognition in animals. I would be excited to join a theory- and computation-focused group, or a neuroethology lab aiming to uncover the fundamental principles of biological intelligence. If you are looking for insights from a well-trained ethologist who can “whisper” to your animals and bring out their best, please reach out!
+**I am seeking postdoctoral positions starting in 2026** to continue studying animal cognition. If you’re a theory/computation or neuroethology lab looking for an ethologist who can “whisper” to animals and bring out their best behaviors, let’s connect!
 
 I am a PhD student in the Neurobiology program at the California Institute of Technology ([Caltech](https://neuroscience.caltech.edu/)), advised by Prof. [Markus Meister](https://meisterlab.caltech.edu/markusmeister). My research focuses on cognitive flexibility, learning, and memory, with particular interest in the role of neocortex and hippocampus in these functions. My current project, [*Mice in the Manhattan Maze*](https://jieyusz.github.io/publication/manhattan), uses an original massively reconfigurable maze to study rapid learning, long-term memory and generalization in wildtype mice and acortical mice. I recently published a perspective about the biggest mystery of the human brain titled ["the Unbearable Slowness of Being"](https://jieyusz.github.io/publication/2024_zheng_slowness) on [Neuron](https://doi.org/10.1016/j.neuron.2024.11.008), which explores the speed of cognition using information theory.
 
