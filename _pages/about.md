@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-**Important announcement: I am seeking postdoctoral positions starting in 2026** to continue studying animal cognition. If you’re a theory/computation or neuroethology lab looking for an ethologist who can “whisper” to animals and bring out their best behaviors, let’s connect!
+**Important Announcement**
 
----
+**I am seeking postdoctoral positions starting in 2026** to continue studying animal cognition. If you’re a theory/computation or neuroethology lab looking for an ethologist who can “whisper” to animals and bring out their best behaviors, let’s connect!
+
+======
 
 I am a PhD student in the Neurobiology program at the California Institute of Technology ([Caltech](https://neuroscience.caltech.edu/)), advised by Prof. [Markus Meister](https://meisterlab.caltech.edu/markusmeister). My research focuses on cognitive flexibility, learning, and memory, with particular interest in the role of neocortex and hippocampus in these functions. My current project, [*Mice in the Manhattan Maze*](https://jieyusz.github.io/publication/manhattan), uses an original massively reconfigurable maze to study rapid learning, long-term memory and generalization in wildtype mice and acortical mice. I recently published a perspective about the biggest mystery of the human brain titled ["the Unbearable Slowness of Being"](https://jieyusz.github.io/publication/2024_zheng_slowness) on [Neuron](https://doi.org/10.1016/j.neuron.2024.11.008), which explores the speed of cognition using information theory.
 
-Beyond research, I am actively involved in teaching and student activities at Caltech. I developed my own 10-week tutorial [Bi23 Sec1 Learning Across Species](https://jieyusz.github.io/teaching/2025-bi23) in Winter 2025. For two years, I served as the head teaching assistant for CNS187 *Neural Computation*, a graduate-level course requirement for students in Computation and Neural System. Additionally, I am the current president of the [Neurotechers](https://neurotechers.caltech.edu/) (23-), the official club for Caltech graduate students in neuroscience. You can learn more about me in a short [Spotlight](https://thisis.caltech.edu/person-spotlight-listing?p=2) on Caltech's frontpage, and a short assay about the [best students in class](https://magazine.caltech.edu/post/caltech-initiative-for-students). 
+Beyond research, I am actively involved in teaching and student activities at Caltech. I developed my own 10-week tutorial [Bi23 Sec1 Learning Across Species](https://jieyusz.github.io/teaching/2025-bi23) in Winter 2025. For two years, I served as the head teaching fellow for CNS187 *Neural Computation*, a graduate-level course requirement for students in Computation and Neural System. I was the president of the [Neurotechers](https://neurotechers.caltech.edu/) (23-25), the official club for Caltech graduate students in neuroscience. You can see more about me in a short [Spotlight](https://thisis.caltech.edu/person-spotlight-listing?p=2) on Caltech's frontpage, and a short assay about the [best students in class](https://magazine.caltech.edu/post/caltech-initiative-for-students). 
 
 In my free time, I enjoy exploring the mountains, hiking in the summer and skiing in the winter. In 2024, I summitted [Mt Whitney](https://en.wikipedia.org/wiki/Mount_Whitney) in one day. I am also an avid bird watcher, wildlife columnist, artist and photographer (check my [art portfolio](https://jieyusz.github.io/portfolio/)!). 
 
